@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "FarmerCredential": {
+      "@id": "https://yaredtaye.github.io/certify/farmer.json#FarmerCredential"
+    },
+    "fullName": "schema:name",
+    "phoneNumber": "schema:telephone",
+    "dateOfBirth": "schema:birthDate",
+    "gender": "schema:gender"
+  }
+}
